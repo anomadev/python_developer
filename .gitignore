@@ -1,0 +1,3 @@
+# archivos a descartar del taller de python y mongodb
+env/
+python_mongo/__pycache__/

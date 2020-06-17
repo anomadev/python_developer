@@ -1,0 +1,2 @@
+# mongodb+srv://<username>:<password>@cluster0-skohm.mongodb.net/<dbname>?retryWrites=true&w=majority
+URL = 'mongodb+srv://anomadev:amaterasu160191@cluster0-skohm.mongodb.net/<dbname>?retryWrites=true&w=majority'
